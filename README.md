@@ -3,14 +3,6 @@ LOAN DEFAULT PREDICTION USING MACHINE LEARNING
 
 This project aims to predict loan defaults using machine learning models, helping financial institutions streamline the loan approval process and manage credit risk more effectively. It explores multiple machine learning algorithms, including Logistic Regression, Support Vector Machine, Decision Tree, and K-Nearest Neighbors, to assess their predictive capabilities on a loan default dataset.
 
-Table of Contents
-Project Overview
-Features
-Dataset
-Models
-Results
-
-
 Project Overview
 Loan default prediction is critical for financial institutions to minimize risk and make informed lending decisions. By using machine learning techniques, this project aims to predict whether a borrower will default on a loan based on features like credit history, income, debt-to-income ratio, and employment status.
 
@@ -36,12 +28,9 @@ Logistic Regression
 Support Vector Machine (SVM)
 Decision Tree
 K-Nearest Neighbors (KNN)
-The models were assessed using the following metrics:
 
-Accuracy
-Precision
-Recall
-ROC-AUC Score
+The models were assessed using the following metrics:
+Accuracy, Precision, Recall,ROC-AUC Score
 
 
 Results
