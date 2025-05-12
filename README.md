@@ -7,7 +7,7 @@ Project Overview
 Loan default prediction is critical for financial institutions to minimize risk and make informed lending decisions. By using machine learning techniques, this project aims to predict whether a borrower will default on a loan based on features like credit history, income, debt-to-income ratio, and employment status.
 
 Features
-The dataset used in this project includes the following features:
+The dataset used in this project includes the following features: 
 
 age: Age of the borrower.
 ed: Education level of the borrower.
