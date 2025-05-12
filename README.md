@@ -12,7 +12,7 @@ The dataset used in this project includes the following features:
 age: Age of the borrower.
 ed: Education level of the borrower.
 employ: Years of employment. 
-address: Years at current address.
+address: Years at current address. 
 income: Annual income. 
 debtinc: Debt-to-income ratio.
 creddebt: Credit debt.
