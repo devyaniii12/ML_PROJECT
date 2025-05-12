@@ -16,7 +16,7 @@ address: Years at current address.
 income: Annual income.
 debtinc: Debt-to-income ratio.
 creddebt: Credit debt.
-otherdebt: Other debt.
+otherdebt: Other debt. 
 default: Loan default status (0 = no default, 1 = default).
 Dataset
 The dataset used in this project consists of 1151 samples with 9 features and a binary target variable (default), which indicates whether the borrower defaulted on the loan.
